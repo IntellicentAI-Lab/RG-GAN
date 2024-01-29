@@ -9,7 +9,7 @@ Training Generative Adversarial Networks (GAN) to generate high-quality images t
 ### Impressive results
 
 ---
-![Mian Figure](./figures/main_figure.png "Main Figure")
+![Mian Figure](./figures/main_figure.jpg "Main Figure")
 
 ### Prerequisites
 
