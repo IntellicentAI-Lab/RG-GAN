@@ -60,7 +60,7 @@ git clone https://github.com/IntellicentAI-Lab/RG-GAN.git
 python sngan_main.py --epoch 1000 --data_ratio 0.1 --eva_epoch 5 --diffaug 
 
 # For RG-SNGAN
-python rggan_main.py --epoch 1000 --data_ratio 0.1 --eva_epoch 5  --diffaug --lambda 1e-13
+python rggan_main.py --epoch 1000 --data_ratio 0.1 --eva_epoch 5 --diffaug --lambda 1e-13
 ```
 
 ### Citation
