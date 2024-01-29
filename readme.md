@@ -23,10 +23,10 @@ Our codes were implemented by Pytorch, we list the libraries and their version u
 
 ## Getting Started
 
-
+---
 ### Usage
 Should you have any questions about this repo, feel free to contact Jiahao Xu @ jiahaoxu@nevada.unr.edu
----
+
 
 #### Hyperparameters introduction for SNGAN/RG-SNGAN
 
