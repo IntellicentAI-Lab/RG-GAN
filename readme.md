@@ -13,7 +13,6 @@ Training Generative Adversarial Networks (GAN) to generate high-quality images t
 
 ### Prerequisites
 
-Should you have any questions about this repo, feel free to contact Jiahao Xu @ jiahaoxu@nevada.unr.edu
 ---
 Our codes were implemented by Pytorch, we list the libraries and their version used in our experiments, but other versions should also be worked.
 1. Linux         (Ubuntu)
@@ -26,7 +25,7 @@ Our codes were implemented by Pytorch, we list the libraries and their version u
 
 
 ### Usage
-
+Should you have any questions about this repo, feel free to contact Jiahao Xu @ jiahaoxu@nevada.unr.edu
 ---
 
 #### Hyperparameters introduction for SNGAN/RG-SNGAN
