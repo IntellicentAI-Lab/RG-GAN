@@ -25,6 +25,13 @@ Our codes were implemented by Pytorch, we list the libraries and their version u
 
 ---
 ### Usage
+
+In this repo, we provide the code of RG-SNGAN, for other GAN architecture, one could easily set up RG-GAN training by 
+
+1. Substitute the normal NN layers with the dynamic ones defined in dynamic_layers.py.
+2. Set up the dynamic training, e.g., lines 93-99 in rggan_main.py.
+3. Add training mode swither, e.g., lines 205-218 in rggan_main.py.
+
 Should you have any questions about this repo, feel free to contact Jiahao Xu @ jiahaoxu@nevada.unr.edu
 
 
